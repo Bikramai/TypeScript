@@ -1,7 +1,7 @@
-let sales = 123_456_789;
-let course = 'TypeScript';
-let is_publish = true;
-let level;
+// let sales = 123_456_789;
+// let course = 'TypeScript';
+// let is_publish = true;
+// let level;
 
 /* 
 In TypeScript, if we have a large number, we can separate these digits using an underscore.
