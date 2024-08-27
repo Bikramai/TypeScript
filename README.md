@@ -19,15 +19,11 @@ TypeScript is essentially JavaScript with Type Checking. With TypeScript we expl
 Drawbacks of TypeScript:
 
 - Compilation
-    
-    .ts ———> Compiler ———> .js
-    
-            Transpiration
+  .ts ———> Compiler ———> .js
+       Transpiration
     
 - Discipline in Coding
-    
     TypeScript ——> Medium to large projects
-    
     JavaScript ———> Simple projects
     
 
