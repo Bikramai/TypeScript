@@ -31,7 +31,7 @@ Drawbacks of TypeScript:
     JavaScript ———> Simple projects
     
 
-## You'll Learn
+# You'll Learn
 
 # Section-1: Getting Staart With TypeScript
 
@@ -40,3 +40,12 @@ Drawbacks of TypeScript:
 - Creating your first TypeScript program
 - Configuring the TypeScript compiler
 - Debugging TypeScript applications
+
+# Section-2: Fundamentals
+- any Type
+- Arrays
+- Tuples
+- Enums
+- Functions
+- Objects
+  
