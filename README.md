@@ -44,4 +44,12 @@ Drawbacks of TypeScript:
 - Enums
 - Functions
 - Objects
+
+# Section-3: Advanced Types
+- Type aliases
+- Unions and intersections
+- Type narrowing
+- Nullable types
+- Unknown type
+- Never type
   
