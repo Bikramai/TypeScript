@@ -52,4 +52,18 @@ Drawbacks of TypeScript:
 - Nullable types
 - Unknown type
 - Never type
+
+# Section-4: Classes, Interfaces and Object-Oriented Programming
+- OOP
+- Classes
+- Constructors
+- Properties and Methods
+- Access control Keywords
+- Getters and setters
+- Static members
+- Index signatures
+- Inheritance
+- Ploymorphism
+- Abstract classes 
+- Interfaces
   
