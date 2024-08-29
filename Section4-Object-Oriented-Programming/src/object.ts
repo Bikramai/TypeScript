@@ -1,4 +1,4 @@
-class Account {
+class Account3 {
     id: number;
     owner: string;
     balance: number;
@@ -10,14 +10,14 @@ class Account {
     }
 
     deposit(amount: number): void {
-      if (amount <= 0)  
-        throw new Error('Invalid amount');
-      this.balance += amount;
-    }
+        if (amount <= 0)  
+          throw new Error('Invalid amount');
+        this.balance += amount;
+      }
 }
 
 // Objects
-let account = new Account(1, 'Bikram', 0);
+let account3 = new Account(1, 'Bikram', 0);
 account.deposit(500);
 console.log(account);
 console.log(typeof account);
