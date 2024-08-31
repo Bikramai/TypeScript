@@ -12,7 +12,7 @@ class Account3 {
     }
 }
 let account3 = new Account(1, 'Bikram', 0);
-account3.deposit(500);
-console.log(account3);
-console.log(typeof account3);
-console.log(account3 instanceof Account3);
+account.deposit(500);
+console.log(account);
+console.log(typeof account);
+console.log(account instanceof Account);
