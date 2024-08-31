@@ -1,7 +1,7 @@
 class Account {
     readonly id: number;
     owner: string;
-    balance: number;
+    private balance: number;
     nickname?: string;
 
     constructor(id: number, owner: string, balance: number) {
@@ -13,13 +13,19 @@ class Account {
     deposit(amount: number): void {
       if (amount <= 0)  
         throw new Error('Invalid amount');
+      // Record a transaction 
       this.balance += amount;
+    }
+
+    private calculateTax(){
+
+    }
+
+    getBalance(): number {
+      return this.balance;
     }
 }
 
 // Objects
 let account = new Account(1, 'Bikram', 0);
-account.deposit(500);
-console.log(account);
-console.log(typeof account);
-console.log(account instanceof Account);
+console.log(account.getBalance());

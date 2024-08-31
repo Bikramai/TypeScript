@@ -10,9 +10,11 @@ class Account {
             throw new Error('Invalid amount');
         this.balance += amount;
     }
+    calculateTax() {
+    }
+    getBalance() {
+        return this.balance;
+    }
 }
 let account = new Account(1, 'Bikram', 0);
-account.deposit(500);
-console.log(account);
-console.log(typeof account);
-console.log(account instanceof Account);
+console.log(account.getBalance());
