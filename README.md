@@ -66,4 +66,6 @@ Drawbacks of TypeScript:
 - Ploymorphism
 - Abstract classes 
 - Interfaces
+
+# Section-4: Generics
   
