@@ -21,7 +21,7 @@ class Account {
     }
 
     getBalance(): number {
-      return this.balance;
+      return this._balance;
     }
 }
 
