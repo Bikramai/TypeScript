@@ -1,9 +1,12 @@
 "use strict";
 class Ride {
-    start() { Ride.activeRides++; }
-    stop() { Ride.activeRides--; }
+    start() { Ride._activeRides++; }
+    stop() { Ride._activeRides--; }
+    static get activeRides() {
+        return Ride._activeRides;
+    }
 }
-Ride.activeRides = 0;
+Ride._activeRides = 0;
 let ride1 = new Ride();
 ride1.start();
 let ride2 = new Ride();
