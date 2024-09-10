@@ -67,7 +67,7 @@ Drawbacks of TypeScript:
 - Abstract classes 
 - Interfaces
 
-# Section-4: Generics
+# Section-5: Generics
 - Generics classes
 - Generics functions
 - Generics interfaces
