@@ -68,4 +68,9 @@ Drawbacks of TypeScript:
 - Interfaces
 
 # Section-4: Generics
+- Generics classes
+- Generics functions
+- Generics interfaces
+- Generics constraints
+- Type Mapping
   
