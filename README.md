@@ -82,3 +82,9 @@ Drawbacks of TypeScript:
 - Accessor decorators
 - Parameter decorators
 
+# Section-7: Modules
+- Creating and using modules
+- Module formats
+- Default exports
+- Wildcard imports
+- Re-exporting
