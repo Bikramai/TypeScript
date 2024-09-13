@@ -73,4 +73,12 @@ Drawbacks of TypeScript:
 - Generics interfaces
 - Generics constraints
 - Type Mapping
-  
+
+# Section-6: Decorators
+- What are decorators
+- Class decorators
+- Method decorators
+- Property decorators
+- Accessor decorators
+- Parameter decorators
+
