@@ -4,6 +4,6 @@
  * @returns {number}
  */
 
-export function calculateTax(income) {
-    return income * .3
-}
+// export function calculateTax(income) {
+//     return income * .3
+// }
