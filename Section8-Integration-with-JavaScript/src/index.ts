@@ -1,4 +1,3 @@
-import { calculateTax } from './tax';
+import * as _ from 'lodash';
 
-let tax = calculateTax(1000);
-console.log(tax)
+// _.clone()
