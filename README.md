@@ -88,3 +88,12 @@ Drawbacks of TypeScript:
 - Default exports
 - Wildcard imports
 - Re-exporting
+
+# Section-8: Integration with JavaScript
+How to run JavaScript and TypeScript side by side.
+
+- Including JS code in TS projects
+- Type checking JS code
+- JSDocs
+- Declaration (Type Definition)
+- Using declaration files from @types/
