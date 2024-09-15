@@ -1,4 +1,4 @@
-# Remainder App with TypeScript
+# Remainder App with React + TypeScript
 
 # Introduction
 
