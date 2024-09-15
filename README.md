@@ -97,3 +97,15 @@ How to run JavaScript and TypeScript side by side.
 - JSDocs
 - Declaration (Type Definition)
 - Using declaration files from @types/
+
+Section-9: React with TypeScript
+- Creating a React App with TypeScript
+- Add Bootstrap
+- Creating a Component - Title
+- Using the State Hook
+- Calling the Backend
+- Using the Effect Hook
+- Handling Events
+- Building Form Submission
+- Additional Reading
+<https://reactjs.org/docs/static-type-checking.html#adding-typescript-to-a-project>
