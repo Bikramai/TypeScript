@@ -1,4 +1,4 @@
-# TypeScript
+# Remainder App with React + TypeScript
 
 # Introduction
 
@@ -98,7 +98,11 @@ How to run JavaScript and TypeScript side by side.
 - Declaration (Type Definition)
 - Using declaration files from @types/
 
-Section-9: React with TypeScript
+# Section-9: React with TypeScript
+
+## How to run this Project
+- npm start
+  
 - Creating a React App with TypeScript
 - Add Bootstrap
 - Creating a Component - Title
