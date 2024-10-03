@@ -7,12 +7,12 @@ class ReminderServices {
         baseURL: 'https://jsonplaceholder.typicode.com'
     });
 
-    async getReminders() {
+    async getReminder() {
         const response = await this.http.get<Reminder[]>('/todo');
         return response.data
     }
 
-    async addReminders(title: string) {
+    async addReminder(title: string) {
         const response = await this.http.post<Reminder[]>('/todo', { title });
         return response.data
     }
