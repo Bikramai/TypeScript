@@ -1,16 +1,14 @@
 import React from 'react';
 import Reminder from '../models/reminder';
 
-
-
 interface ReminderListProps {
     items: Reminder[]
 }
 
 function ReminderList({ items }: ReminderListProps) {
     return (
-        <ul>
-            {items.map(items => <li key={ items.id}>{items.title}</li>)}
+        <ul className='list-group'>
+            {items.map(items => <li className='list-group-item' key={ items.id}>{items.title}</li>)}
         </ul>
     );
 }
