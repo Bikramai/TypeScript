@@ -100,8 +100,7 @@ How to run JavaScript and TypeScript side by side.
 
 # Section-9: React with TypeScript
 
-## How to run this Project
-- npm start
+## Project: Reminder App
   
 - Creating a React App with TypeScript
 - Add Bootstrap
@@ -113,3 +112,11 @@ How to run JavaScript and TypeScript side by side.
 - Building Form Submission
 - Additional Reading
 <https://reactjs.org/docs/static-type-checking.html#adding-typescript-to-a-project>
+
+## How to run this Project
+- npm start
+
+# Section-10: Node and Express with TypeScript
+
+## Project: API Using Node Express + TypeScript
+- Build a relatively simple API using Node Express and TypeScript. With the basics of Node and Express and Integrated with TypeScript. 
