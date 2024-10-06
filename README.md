@@ -118,5 +118,5 @@ How to run JavaScript and TypeScript side by side.
 
 # Section-10: Node and Express with TypeScript
 
-## Project: API Using Node Express + TypeScript
+## Project: Reminder-API 
 - Build a relatively simple API using Node Express and TypeScript. With the basics of Node and Express and Integrated with TypeScript. 
