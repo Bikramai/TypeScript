@@ -101,6 +101,7 @@ How to run JavaScript and TypeScript side by side.
 # Section-9: React with TypeScript
 
 ## Project: Reminder App
+- Building React applications with TypeScript.So we're going to build a relatively simple to do app that shows the essential concepts we need to know when building react appliactionswith TypeScript.
   
 - Creating a React App with TypeScript
 - Add Bootstrap
