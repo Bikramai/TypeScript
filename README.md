@@ -101,7 +101,8 @@ How to run JavaScript and TypeScript side by side.
 # Section-9: React with TypeScript
 
 ## Project: Reminder App
-- Building React applications with TypeScript.So we're going to build a relatively simple to do app that shows the essential concepts we need to know when building react appliactionswith TypeScript.
+- Build a React to-do app with TypeScript using useState, useEffect, and type-safe components to manage to-dos. 
+The app will handle state updates, and render to-dos dynamically with strict typing to ensure safer and more predictable code.
   
 - Creating a React App with TypeScript
 - Add Bootstrap
@@ -120,4 +121,5 @@ How to run JavaScript and TypeScript side by side.
 # Section-10: Node and Express with TypeScript
 
 ## Project: Reminder-API 
-- Build a relatively simple API using Node Express and TypeScript. With the basics of Node and Express and Integrated with TypeScript. 
+- Set up a Node.js API with Express and TypeScript, defining type-safe CRUD routes to manage to-dos on the backend. 
+Use axios or fetch in React to communicate with this API, ensuring type safety between the frontend and backend for a complete, type-safe application.
