@@ -123,3 +123,9 @@ The app will handle state updates, and render to-dos dynamically with strict typ
 ## Project: Reminder-API 
 - Set up a Node.js API with Express and TypeScript, defining type-safe CRUD routes to manage to-dos on the backend. 
 Use axios or fetch in React to communicate with this API, ensuring type safety between the frontend and backend for a complete, type-safe application.
+
+- Executing TypeScript Code with Node
+- Setting up an Express Project
+- Creating a Router
+- Parsing Request Bodies
+- Building an API
