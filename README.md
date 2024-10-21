@@ -130,3 +130,6 @@ Use axios or fetch in React to communicate with this API, ensuring type safety b
 - Creating a Router
 - Parsing Request Bodies
 - Building an API
+
+## Note
+Free To use no restrictions - developed and designed by https://github.com/Bikramai
